@@ -68,13 +68,13 @@ Let’s innovate and build something impactful together!
 
 ### 🌟 Featured Projects
 
-- 🛍️ **[Mini-Shop](https://github.com/aayush-dev/mini-shop)**  
+- 🛍️ **[Mini-Shop](https://github.com/ayushpandey2026/E_Shop)**  
   E-commerce web app with responsive UI, product filtering, and cart management using React + Context API.
 
-- 🌍 **[CountryExplorer SPA](https://github.com/aayush-dev/country-explorer)**  
+- 🌍 **[CountryExplorer SPA](https://github.com/ayushpandey2026/CountryExplorerr)**  
   SPA to browse country data with filters, dark mode, and REST API integration.
 
-- 🎬 **[CineLuxe Movie App](https://github.com/aayush-dev/cineluxe-movie)**  
+- 🎬 **[CineLuxe Movie App](https://github.com/ayushpandey2026/Cineluxe-Movie-)**  
   Movie search & discovery app using TMDB API with genre filters and clean design.
 
 ---
