@@ -2,8 +2,10 @@
 <h3 align="center">🚀 Full Stack Developer | React • Node.js • MongoDB • UI/UX • Problem Solver</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&center=true&vCenter=true&width=650&lines=Turning+ideas+into+scalable+apps;Crafting+clean+code+%26+beautiful+UIs;Collaborating+to+build+something+amazing+👨‍💻" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&center=true&vCenter=true&width=650&lines=Turning+ideas+into+scalable+apps;Crafting+clean+code+%26+beautiful+UIs;Collaborating+to+build+something+amazing+👨‍💻" />
 </p>
+
+
 
 ---
 
