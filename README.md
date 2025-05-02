@@ -17,14 +17,23 @@
 ---
 
 ### 🌱 Currently Learning
+⚙️ Building Scalable APIs
+Using Node.js, Express.js, and REST best practices for reliable backend development.
 
+🧩 Microservices Architecture
+Exploring service decomposition, API gateways, and inter-service communication.
 
-- Scalable REST APIs, Microservices
-- Data Structures & Algorithms for interviews
-- OAuth2, JWT, and authentication patterns
-- TypeScript & Test Automation (Jest, Cypress)
+📚 Data Structures & Algorithms
+Preparing for interviews with a focus on problem-solving and code efficiency.
 
----
+🔐 Authentication & Security
+Learning OAuth2, JWT, and secure auth flows for full-stack apps.
+
+🟦 TypeScript
+Strengthening type-safe development for frontend and backend projects.
+
+🧪 Test Automation
+Writing unit tests with Jest and end-to-end tests with Cypress.
 
 ### 💞️ Looking to Collaborate On
 
